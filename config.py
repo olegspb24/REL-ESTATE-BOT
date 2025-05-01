@@ -1,0 +1,2 @@
+TELEGRAM_TOKEN = "8084321526:AAH88soqnI6HxMfV86Atw6tPUGgaqTyWCt0"
+WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbwJSDw-I2g8u_8o0WgNk07ZcoqMiVeIcPWxG4Iy9EKQU1K4OC3tM5U8X2X6Yy9xGVpI9A/exec"
